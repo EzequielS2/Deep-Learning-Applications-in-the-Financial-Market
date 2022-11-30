@@ -15,11 +15,9 @@ Projeto de Modelo de Análise De Dados. Foi feita uma análise preditiva do índ
 
 
 ### Geração dos Dados 
-
 Os dados foram extraídos de um API do Yahoo. 
 
 ### Modelos: CNN e LSTM
-
 Os modelos foram criados utilizando o tensorflow.
 
 
