@@ -1,7 +1,7 @@
 # Deep Learning Applications in the Financial Market
 
 
-Projeto de Modelo de Análise De Dados. Foi feito uma análise preditiva do índice Bovespa com os modelos CNN e LSTM. Em particular, comparamos o desempenho de ambos os modelos.    
+Projeto de Modelo de Análise De Dados. Foi feita uma análise preditiva do índice Bovespa com os modelos CNN e LSTM. Em particular, comparamos o desempenho de ambos os modelos.    
 
 
 
@@ -16,8 +16,10 @@ Projeto de Modelo de Análise De Dados. Foi feito uma análise preditiva do índ
 
 ### Geração dos Dados 
 
-Os dados foram extraído de um API do yahoo. 
+Os dados foram extraídos de um API do Yahoo. 
 
 ### Modelos: CNN e LSTM
 
 Os modelos foram criados utilizando o tensorflow.
+
+
